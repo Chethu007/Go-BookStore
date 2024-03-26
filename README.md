@@ -1,2 +1,2 @@
-# Go-BookStore
+# Go-BookStore-And-MovieStore
 Go Project
